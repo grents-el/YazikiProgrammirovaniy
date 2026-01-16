@@ -8,6 +8,10 @@ python archiver.py direc direc.tar.bz2 --benchmark
 
 python archiver.py direc.tar.bz2 restored_direc --benchmark
 
+Подсказки:
+<img width="806" height="317" alt="image" src="https://github.com/user-attachments/assets/dcb7af64-1dc3-4f52-96fa-beb4d4a76787" />
+
+
 Работа с файлами :
 
 1. Сжатие
